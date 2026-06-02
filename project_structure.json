@@ -3,5 +3,13 @@
     "name": "Testkit Generic",
     "description": "Designs for rackmount testkit that will be reused across multiple projects",
     "url": "https://github.com/m0wut/p0004_testkit-generic",
-    "documents": {}
+    "documents": {
+        "req": {
+            "P0004-REQ-001": {
+                "name": "LCD Board Requirements",
+                "description": "LCD Board Requirements",
+                "url": "https://github.com/m0wut/p0004_testkit-generic/blob/main/requirements/P0004-REQ-001_LcdBoardRequirements/P0004-REQ-001.md"
+            }
+        }
+    }
 }
