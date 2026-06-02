@@ -9,6 +9,11 @@
                 "name": "LCD Board Requirements",
                 "description": "LCD Board Requirements",
                 "url": "https://github.com/m0wut/p0004_testkit-generic/blob/main/requirements/P0004-REQ-001_LcdBoardRequirements/P0004-REQ-001.md"
+            },
+            "P0004-REQ-002": {
+                "name": "System Requirements",
+                "description": "Requirement for the generic test equipment module",
+                "url": "https://github.com/m0wut/p0004_testkit-generic/blob/main/requirements/P0004-REQ-002_SystemRequirements/P0004-REQ-002.md"
             }
         }
     }
