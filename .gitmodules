@@ -1,0 +1,5 @@
+[submodule "pcb/P0004-PCB-001_LcdBoard"]
+	path = pcb/P0004-PCB-001_LcdBoard
+	url = https://github.com/M0WUT/p0004-pcb-001_lcd-board.git
+[submodule "pcb\\P0004-PCB-001_LcdBoard"]
+	branch = main
