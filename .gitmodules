@@ -3,3 +3,8 @@
 	url = https://github.com/M0WUT/p0004-pcb-001_lcd-board.git
 [submodule "pcb\\P0004-PCB-001_LcdBoard"]
 	branch = main
+[submodule "pcb/P0004-PCB-002_IoBoard"]
+	path = pcb/P0004-PCB-002_IoBoard
+	url = https://github.com/M0WUT/p0004-pcb-002_io-board.git
+[submodule "pcb\\P0004-PCB-002_IoBoard"]
+	branch = main

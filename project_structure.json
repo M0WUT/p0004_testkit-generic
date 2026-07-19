@@ -22,6 +22,12 @@
                 "description": "Front panel board featuring MCU and LCD",
                 "url": "https://github.com/m0wut/p0004-pcb-001_lcd-board",
                 "github_pages_url": "https://m0wut.github.io/p0004-pcb-001_lcd-board"
+            },
+            "P0004-PCB-002": {
+                "name": "IO Board",
+                "description": "Connector and power muxing board",
+                "url": "https://github.com/m0wut/p0004-pcb-002_io-board",
+                "github_pages_url": "https://m0wut.github.io/p0004-pcb-002_io-board"
             }
         }
     }
