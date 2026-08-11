@@ -29,6 +29,13 @@
                 "url": "https://github.com/m0wut/p0004-pcb-002_io-board",
                 "github_pages_url": "https://m0wut.github.io/p0004-pcb-002_io-board"
             }
+        },
+        "sw": {
+            "P0004-SW-001": {
+                "name": "Generic Arduino Firmware",
+                "description": "Firmware common to all GTE platforms",
+                "url": "https://github.com/m0wut/p0004-sw-001_generic-arduino-firmware"
+            }
         }
     }
 }

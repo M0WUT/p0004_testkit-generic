@@ -8,3 +8,8 @@
 	url = https://github.com/M0WUT/p0004-pcb-002_io-board.git
 [submodule "pcb\\P0004-PCB-002_IoBoard"]
 	branch = main
+[submodule "software/P0004-SW-001_GenericArduinoFirmware"]
+	path = software/P0004-SW-001_GenericArduinoFirmware
+	url = https://github.com/M0WUT/p0004-sw-001_generic-arduino-firmware.git
+[submodule "software\\P0004-SW-001_GenericArduinoFirmware"]
+	branch = main
