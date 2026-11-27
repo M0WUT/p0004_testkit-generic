@@ -15,3 +15,4 @@ Designs for rackmount testkit that will be reused across multiple projects
 | --- | --- | --- | --- |
 | P0004-SW-001 | Generic Arduino Firmware | Firmware common to all GTE platforms | [Link](https://github.com/m0wut/p0004-sw-001_generic-arduino-firmware) |
 | P0004-SW-002 | Claude Firmware | Experimental writing of the firmware using Claude Code | [Link](https://github.com/m0wut/p0004-sw-002_claude-firmware/tree/main/software/P0004-SW-002_ClaudeFirmware) |
+| P0004-SW-003 | SCPI Manual Generator | Automatically generates PDF documentation for supported SCPI commands from comments in header files | [Link](https://github.com/m0wut/p0004-sw-003_scpi-manual-generator/tree/main/software/P0004-SW-003_ScpiManualGenerator) |

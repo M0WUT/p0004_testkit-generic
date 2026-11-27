@@ -40,6 +40,11 @@
                 "name": "Claude Firmware",
                 "description": "Experimental writing of the firmware using Claude Code",
                 "url": "https://github.com/m0wut/p0004-sw-002_claude-firmware/tree/main/software/P0004-SW-002_ClaudeFirmware"
+            },
+            "P0004-SW-003": {
+                "name": "SCPI Manual Generator",
+                "description": "Automatically generates PDF documentation for supported SCPI commands from comments in header files",
+                "url": "https://github.com/m0wut/p0004-sw-003_scpi-manual-generator/tree/main/software/P0004-SW-003_ScpiManualGenerator"
             }
         }
     }
